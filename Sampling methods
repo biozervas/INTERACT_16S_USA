@@ -10,3 +10,4 @@ Sampled plants were chosen based on plant height, which was measured from the ba
 # Bioinformatics analysis
 
 The raw sequencing data was analyzed using DADA2 (version 1.8.0) implemented in the DeCIFR toolkit (https://tools.decifr.hpc.ncsu.edu/dada2) with default settings and the SILVA database (version 138) for taxonomic assignment. Microbiome statistical analysis and visualization were performed using Phyloseq (version 1.38.0), also implemented in the DeCIFR toolkit (https://tools.decifr.hpc.ncsu.edu/phyloseq).
+
